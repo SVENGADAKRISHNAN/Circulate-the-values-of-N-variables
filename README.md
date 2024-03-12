@@ -28,7 +28,7 @@ def circulate():
     print("After circulating the values are:",b)
 a=eval(input())#list or tuple or any
 n=int(input())#integer
-
+```
 ## Output:
 
 ![circulate](https://github.com/SVENGADAKRISHNAN/Circulate-the-values-of-N-variables/assets/147473084/fdd6a9c7-faff-4b41-b9ad-023ddd426c63)
